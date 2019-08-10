@@ -1,0 +1,33 @@
+body {
+    background: #f0f0f0;
+    color: #2e3436;
+    font-family: 'DejaVu Sans', sans-serif;
+    margin: auto;
+    max-width: 40em;
+    padding-bottom: 30px;
+}
+
+h1 {
+    text-align: center;
+    padding: 20px;
+}
+
+img {
+    border: solid 1px #2e3436;
+    display: block;
+    margin: auto;
+    max-width: 40em;
+}
+
+img#me {
+    width: 40%;
+    margin-bottom: 30px;
+}
+
+img#shadow {
+    margin-bottom: 30px;
+}
+
+p {
+    text-align: justify;
+}
