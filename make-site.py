@@ -6,6 +6,7 @@ files = [
     ('index', None),
     ('aviation', 'Aviation'),
     ('hair', 'Hair Care'),
+    ('ksp', 'Kerbal Space Program'),
     ('sayings', 'Sayings'),
     ('rabbits', 'Rabbits'),
     ('music', 'Music'),

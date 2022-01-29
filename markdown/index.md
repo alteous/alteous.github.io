@@ -1,42 +1,41 @@
 # David Harvey-Macaulay
 
-![me](https://i.imgur.com/R51CMsU.jpg)
+![me](https://i.imgur.com/4z8lYBq.jpg)
 
 ## Profile
 
-* 中国名字: 锈飞兔
+* 中国名字: 锈飞兔 (chosen for me by [Ciro Santilli](https://cirosantilli.com/) and his wife)
 * Nationality: English
 * Residence: Cambridge, United Kingdom
 * Occupation: GPU driver software engineer at Arm—opinions are my own
 * Email: [david@harvey-macaulay.com](mailto:david@harvey-macaulay.com)
 * GitHub: [alteous](https://github.com/alteous)
 
-## Skills
+## Programming languages
 
-On scale from zero to twelve, with twelve denoting mastery:
+* C: strong (candidate Mastermind subject)
+* Rust: solid (I could explain to you how its move sematics differ from C++)
+* C++: solid (I could explain to you what [`std::forward`](https://en.cppreference.com/w/cpp/utility/forward) does)
+* Python: basic (I can write a crappy website generator with it)
 
-* C: 6
-* Rust: 5
-* C++, Java: 4 (I'll learn C++ properly when I'm rich)
-* Python, Javascript, Bash: 3
-
-## Languages
+## Natural Languages
 
 * English: native proficiency
 * Chinese: elementary proficiency
 
 ## Projects
 
-* [gltf-rs](https://github.com/gltf-rs/gltf): imports 3D scenes described by JSON  into game engines etc.
+* [gltf-rs](https://github.com/gltf-rs/gltf): imports 3D scenes described by JSON into game engines etc.
 * [three-rs](https://github.com/three-rs/three): 3D graphics engine inspired by the ever-popular [three.js](https://threejs.org) engine
 * [euler](https://github.com/alteous/euler): GLSL inspired mathematics for Rust
 
 ## Interests
 
 * [Aviation](aviation.html)
-* [Rabbits](rabbits.html)
+* [Rabbits](rabbits.html) (_BunnyVision_ coming soon!)
 * [Music](music.html)
 * [Mechanical keyboards](keyboards.html)
+* [Kerbal Space Program](ksp.html)
 * The [Better than Wolves mod](https://sargunster.com/btw/index.php) for Minecraft
 * Documenting my life on the internet, apparently
 
@@ -71,4 +70,9 @@ The source code for this website is licensed under the MIT licence. The HTML pag
 are generated from Markdown using a quick-and-dirty Python script. The source code
 is available on [GitHub](https://github.com/alteous/website) for you to observe
 with horror!
+
+I've been asked a few times why I wrote my own site generator rather than use
+an existing static site generator. There are two reasons: (1) it's an exercise for
+me to learn some Python; (2) this is _my_ website and I like to think the code and
+the design is a reflection of me.
 
