@@ -73,6 +73,5 @@ with horror!
 
 I've been asked a few times why I wrote my own site generator rather than use
 an existing static site generator. There are two reasons: (1) it's an exercise for
-me to learn some Python; (2) this is _my_ website and I like to think the code and
-the design is a reflection of me.
+me to learn some Python; (2) I wanted a minimalistic website.
 
