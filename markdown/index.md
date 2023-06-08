@@ -7,7 +7,7 @@
 * 中国名字: 锈飞兔 (chosen for me by [Ciro Santilli](https://cirosantilli.com/) and his wife)
 * Nationality: English
 * Residence: Cambridge, United Kingdom
-* Occupation: GPU driver software engineer at Arm—opinions are my own
+* Occupation: Lead software engineer at [KittyCAD](https://kittycad.io/)—opinions are my own
 * Email: [david@harvey-macaulay.com](mailto:david@harvey-macaulay.com)
 * GitHub: [alteous](https://github.com/alteous)
 

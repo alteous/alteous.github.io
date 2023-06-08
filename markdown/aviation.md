@@ -39,6 +39,11 @@ destination of mine.
 * Wellesbourne Mountford
 * Retford Gamston
 * Cranfield
+* Leicester
+* Isle of Wight / Sandown
+* Peterborough Conington
+* Skegness
+* Oxford
 
 ### Bucket list
 
